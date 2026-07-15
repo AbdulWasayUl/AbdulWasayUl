@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050507,50:ff1744,100:b388ff&height=210&section=header&text=Abdul%20Wasay&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" alt="Abdul Wasay banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050507,50:ff1744,100:b388ff&height=210&section=header&text=Abdul%20Wasay&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" alt="Abdul Wasay banner" width="100%" />
 
   <a href="https://portfolio-two-iota-dacc45ocrn.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-ff1744?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/abdul-wasay-671442237/"><img src="https://img.shields.io/badge/LINKEDIN-b388ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -16,12 +16,12 @@
 > building scalable systems, intelligent products, and clean developer experiences.
 ```
 
-I’m **Abdul Wasay**, a software engineer from Pakistan with a strong focus on backend engineering, cloud-native systems, and AI-powered applications. I enjoy taking difficult real-world problems from idea to dependable, elegant software.
+I’m **Abdul Wasay**, a software engineer from Pakistan focused on full-stack engineering, modern frontend experiences, cloud-native systems, and AI-powered applications. I enjoy taking difficult real-world problems from idea to dependable, elegant software.
 
 ### `./now`
 
-- **Junior Software Engineer** at D4 Interactive
-- Developing backend systems, analytics pipelines, and social-media API integrations
+- **Software Engineer** at D4 Interactive
+- Developing full-stack systems, polished frontend experiences, analytics pipelines, and social-media API integrations
 - Working across **Go, Python, Laravel, Vue, Kafka, ClickHouse, MongoDB, and AI agents**
 - B.E. Software Engineering — **NUST / SEECS** · CGPA **3.65 / 4.00**
 
@@ -37,6 +37,11 @@ I’m **Abdul Wasay**, a software engineer from Pakistan with a strong focus on 
 ![Java](https://img.shields.io/badge/Java-161622?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![C++](https://img.shields.io/badge/C++-161622?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![Dart](https://img.shields.io/badge/Dart-161622?style=for-the-badge&logo=dart&logoColor=0175C2)
+![JavaScript](https://img.shields.io/badge/JavaScript-161622?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-161622?style=for-the-badge&logo=php&logoColor=777BB4)
+![SQL](https://img.shields.io/badge/SQL-161622?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![HTML5](https://img.shields.io/badge/HTML5-161622?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-161622?style=for-the-badge&logo=css&logoColor=1572B6)
 
 **Backend & frontend**
 
@@ -71,7 +76,6 @@ I’m **Abdul Wasay**, a software engineer from Pakistan with a strong focus on 
 ## <img src="https://img.icons8.com/fluency/28/combo-chart.png" width="22" /> GitHub telemetry
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulWasayUl&theme=github_dark" alt="Abdul Wasay's GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AbdulWasayUl&hide_border=true&background=050507&ring=ff1744&fire=b388ff&currStreakLabel=ff1744&sideLabels=e8e8ef&dates=a0a0b0&sideNums=e8e8ef&currStreakNum=ffffff" alt="Abdul Wasay's contribution streak" />
 </div>
 
@@ -94,10 +98,10 @@ open_to:
 
 <div align="center">
 
-  <a href="https://portfolio-two-iota-dacc45ocrn.vercel.app">portfolio</a> ·
-  <a href="https://www.linkedin.com/in/abdul-wasay-671442237/">linkedin</a> ·
-  <a href="https://instagram.com/wasay_ul">instagram</a> ·
-  <a href="mailto:wasay6788@gmail.com">email</a>
+  <a href="https://portfolio-two-iota-dacc45ocrn.vercel.app"><img src="https://img.shields.io/badge/-161622?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abdul-wasay-671442237/"><img src="https://img.shields.io/badge/-161622?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/wasay_ul"><img src="https://img.shields.io/badge/-161622?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <a href="mailto:wasay6788@gmail.com"><img src="https://img.shields.io/badge/-161622?style=for-the-badge&logo=gmail&logoColor=ff1744" alt="Email" /></a>
 
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=AbdulWasayUl&label=PROFILE+VIEWS&color=ff1744&style=for-the-badge" alt="Profile views" />
