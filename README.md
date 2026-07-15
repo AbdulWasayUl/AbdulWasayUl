@@ -18,16 +18,12 @@
 
 I’m **Abdul Wasay**, a software engineer from Pakistan with a strong focus on backend engineering, cloud-native systems, and AI-powered applications. I enjoy taking difficult real-world problems from idea to dependable, elegant software.
 
-<img align="right" alt="Coding" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasayUl&layout=compact&hide_border=true&title_color=ff1744&text_color=e8e8ef&bg_color=050507&langs_count=8" />
-
 ### `./now`
 
 - **Junior Software Engineer** at D4 Interactive
 - Developing backend systems, analytics pipelines, and social-media API integrations
 - Working across **Go, Python, Laravel, Vue, Kafka, ClickHouse, MongoDB, and AI agents**
 - B.E. Software Engineering — **NUST / SEECS** · CGPA **3.65 / 4.00**
-
-<br clear="right" />
 
 ## <img src="https://img.icons8.com/fluency/28/source-code.png" width="22" /> Tech constellation
 
@@ -75,7 +71,7 @@ I’m **Abdul Wasay**, a software engineer from Pakistan with a strong focus on 
 ## <img src="https://img.icons8.com/fluency/28/combo-chart.png" width="22" /> GitHub telemetry
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbdulWasayUl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=ff1744&icon_color=b388ff&text_color=e8e8ef&bg_color=050507" alt="Abdul Wasay's GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulWasayUl&theme=github_dark" alt="Abdul Wasay's GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AbdulWasayUl&hide_border=true&background=050507&ring=ff1744&fire=b388ff&currStreakLabel=ff1744&sideLabels=e8e8ef&dates=a0a0b0&sideNums=e8e8ef&currStreakNum=ffffff" alt="Abdul Wasay's contribution streak" />
 </div>
 
