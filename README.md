@@ -77,7 +77,7 @@ I’m **Abdul Wasay**, a software engineer from Pakistan focused on full-stack e
 
 <div align="center">
   <img height="255" src="https://ghstats.dev/api/card?username=AbdulWasayUl&custom_title=Public%20Stats&bg=050507&text=e8e8ef&title_color=ff1744&icon_color=b388ff&border_color=262633" alt="Abdul Wasay's public GitHub stats" />
-  <img height="430" src="https://github-readme-streak-stats.herokuapp.com?user=AbdulWasayUl&hide_border=true&background=050507&ring=ff1744&fire=b388ff&currStreakLabel=ff1744&sideLabels=e8e8ef&dates=a0a0b0&sideNums=e8e8ef&currStreakNum=ffffff" alt="Abdul Wasay's contribution streak" />
+  <img height="516" width="1148" src="https://github-readme-streak-stats.herokuapp.com?user=AbdulWasayUl&hide_border=true&background=050507&ring=ff1744&fire=b388ff&currStreakLabel=ff1744&sideLabels=e8e8ef&dates=a0a0b0&sideNums=e8e8ef&currStreakNum=ffffff" alt="Abdul Wasay's contribution streak" />
 </div>
 
 <div align="center">
@@ -100,7 +100,7 @@ open_to:
 <div align="center">
 
   <a href="https://portfolio-two-iota-dacc45ocrn.vercel.app"><img src="https://img.shields.io/badge/-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/abdul-wasay-671442237/"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/abdul-wasay-671442237/"><img src="./assets/linkedin.svg" height="28" alt="LinkedIn" /></a>
   <a href="https://instagram.com/wasay_ul"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" /></a>
   <a href="mailto:wasay6788@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
 
