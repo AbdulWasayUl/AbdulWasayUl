@@ -21,7 +21,7 @@ I’m **Abdul Wasay**, a software engineer from Pakistan focused on full-stack e
 ### `./now`
 
 - **Software Engineer** at D4 Interactive
-- Developing full-stack systems, polished frontend experiences, analytics pipelines, and social-media API integrations
+- Developing full-stack systems, scalable backends, analytics pipelines, and social-media API integrations
 - Working across **Go, Python, Laravel, Vue, Kafka, ClickHouse, MongoDB, and AI agents**
 - B.E. Software Engineering — **NUST / SEECS** · CGPA **3.65 / 4.00**
 
@@ -76,6 +76,8 @@ I’m **Abdul Wasay**, a software engineer from Pakistan focused on full-stack e
 ## <img src="https://img.icons8.com/fluency/28/combo-chart.png" width="22" /> GitHub telemetry
 
 <div align="center">
+  <sub>PUBLIC GITHUB STATS</sub><br /><br />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulWasayUl&theme=github_dark" alt="Abdul Wasay's public GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AbdulWasayUl&hide_border=true&background=050507&ring=ff1744&fire=b388ff&currStreakLabel=ff1744&sideLabels=e8e8ef&dates=a0a0b0&sideNums=e8e8ef&currStreakNum=ffffff" alt="Abdul Wasay's contribution streak" />
 </div>
 
@@ -98,10 +100,10 @@ open_to:
 
 <div align="center">
 
-  <a href="https://portfolio-two-iota-dacc45ocrn.vercel.app"><img src="https://img.shields.io/badge/-161622?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/abdul-wasay-671442237/"><img src="https://img.shields.io/badge/-161622?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/wasay_ul"><img src="https://img.shields.io/badge/-161622?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
-  <a href="mailto:wasay6788@gmail.com"><img src="https://img.shields.io/badge/-161622?style=for-the-badge&logo=gmail&logoColor=ff1744" alt="Email" /></a>
+  <a href="https://portfolio-two-iota-dacc45ocrn.vercel.app"><img src="https://cdn.simpleicons.org/vercel/ffffff" height="28" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abdul-wasay-671442237/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/wasay_ul"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="28" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="mailto:wasay6788@gmail.com"><img src="https://cdn.simpleicons.org/gmail/ff1744" height="28" alt="Email" /></a>
 
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=AbdulWasayUl&label=PROFILE+VIEWS&color=ff1744&style=for-the-badge" alt="Profile views" />
