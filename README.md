@@ -76,8 +76,7 @@ I’m **Abdul Wasay**, a software engineer from Pakistan focused on full-stack e
 ## <img src="https://img.icons8.com/fluency/28/combo-chart.png" width="22" /> GitHub telemetry
 
 <div align="center">
-  <sub>PUBLIC GITHUB STATS</sub><br /><br />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulWasayUl&theme=github_dark" alt="Abdul Wasay's public GitHub stats" />
+  <img height="170" src="https://ghstats.dev/api/card?username=AbdulWasayUl&custom_title=Public%20Stats&bg=050507&text=e8e8ef&title_color=ff1744&icon_color=b388ff&border_color=262633" alt="Abdul Wasay's public GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AbdulWasayUl&hide_border=true&background=050507&ring=ff1744&fire=b388ff&currStreakLabel=ff1744&sideLabels=e8e8ef&dates=a0a0b0&sideNums=e8e8ef&currStreakNum=ffffff" alt="Abdul Wasay's contribution streak" />
 </div>
 
