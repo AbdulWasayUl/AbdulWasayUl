@@ -100,10 +100,10 @@ open_to:
 
 <div align="center">
 
-  <a href="https://portfolio-two-iota-dacc45ocrn.vercel.app"><img src="https://cdn.simpleicons.org/vercel/ffffff" height="28" alt="Portfolio" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abdul-wasay-671442237/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/wasay_ul"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="28" alt="Instagram" /></a>&nbsp;&nbsp;
-  <a href="mailto:wasay6788@gmail.com"><img src="https://cdn.simpleicons.org/gmail/ff1744" height="28" alt="Email" /></a>
+  <a href="https://portfolio-two-iota-dacc45ocrn.vercel.app"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vercel.svg" height="28" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abdul-wasay-671442237/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/wasay_ul"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg" height="28" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="mailto:wasay6788@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" height="28" alt="Email" /></a>
 
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=AbdulWasayUl&label=PROFILE+VIEWS&color=ff1744&style=for-the-badge" alt="Profile views" />
