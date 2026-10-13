@@ -82,7 +82,7 @@ I’m **Abdul Wasay**, a software engineer from Pakistan focused on full-stack e
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulWasayUl&bg_color=050507&color=e8e8ef&line=ff1744&point=b388ff&area=true&area_color=ff1744&hide_border=true" alt="Abdul Wasay's contribution graph" width="96%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulWasayUl&theme=dark&bg_color=050507&title_color=ff1744&text_color=e8e8ef&icon_color=b388ff&chart_color=ff1744&border_color=050507" alt="Abdul Wasay's contribution graph" width="96%" />
 </div>
 
 ## <img src="https://img.icons8.com/fluency/28/lightning-bolt.png" width="22" /> Beyond the code
